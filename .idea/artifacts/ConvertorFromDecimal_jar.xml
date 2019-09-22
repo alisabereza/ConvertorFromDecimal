@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConvertorFromDecimal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConvertorFromDecimal_jar</output-path>
+    <root id="archive" name="ConvertorFromDecimal.jar">
+      <element id="module-output" name="ConvertorFromDecimal" />
+    </root>
+  </artifact>
+</component>
